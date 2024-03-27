@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ji Hyun
+- 🌱 I’m currently a graduate student at UVA, majoring in Computer Science
